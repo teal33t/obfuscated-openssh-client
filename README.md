@@ -2,7 +2,7 @@
 
 This project establishes an SSH connection using obfuscation and monitors network traffic. It includes features such as handling SIGINT for graceful disconnection and statistics on data sent/received over the network.
 
-If you are looking for **Obfuscated SSH Service - Server**, go to [https://github.com/teal33t/obfuscated-openssh-tunnel](https://github.com/teal33t/obfuscated-openssh-tunnel) 
+If you are looking for **Obfuscated SSH Service - Server**, go to [https://github.com/teal33t/obfuscated-openssh-server](https://github.com/teal33t/obfuscated-openssh-server) 
 
 ## Features
 
